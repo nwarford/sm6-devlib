@@ -6,3 +6,6 @@ Upon signing up for a Sitemason account, you will have the most recent library v
 
 #Updating the Library
 To update your library version, simply download the repo from GitHub and upload it to the same directory, `{your hostname}/.sitemason/SMLibPHP`. Then, in `.sitemason/config.json` you'll update the `developmentLibraryVersion` to match your library directory name.
+
+#Documentation
+Docs are centralized in the [Wiki of this repo](https://github.com/sitemason/sm6-devlib/wiki)
