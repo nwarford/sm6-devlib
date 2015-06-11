@@ -4,5 +4,5 @@ The Sitemason 6 Development Library is a suite of common PHP functions to be cal
 #Installation
 Upon signing up for a Sitemason account, you will have the most recent library version installed at `{your hostname}/.sitemason/SMLibPHP` in FTP, which pulls directly from this [GitHub repo](https://github.com/sitemason/sm6-devlib.git "sm6-devlib GitHub Repo")
 
-##Updating the Library
-To update your library version, simply download the repo from GitHub and and upload it to the same directory, `{your hostname}/.sitemason/SMLibPHP`. Then, in `.sitemason/config.json`
+#Updating the Library
+To update your library version, simply download the repo from GitHub and and upload it to the same directory, `{your hostname}/.sitemason/SMLibPHP`. Then, in `.sitemason/config.json` you'll update the `developmentLibraryVersion` to match your library directory name.
